@@ -17,8 +17,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private EditText accountEdit;
     private EditText passwordEdit;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,7 +30,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button_2.setOnClickListener(this);
 
     }
-
 
     @Override
     public void onClick(View v){
