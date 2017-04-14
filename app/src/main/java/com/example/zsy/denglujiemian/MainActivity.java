@@ -12,7 +12,6 @@ import android.widget.Button;
 import android.widget.EditText;
 
 
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     private EditText accountEdit;
     private EditText passwordEdit;

@@ -23,7 +23,6 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
         titleEdit.setOnClickListener(this);
     }
 
-
     @Override
     public void onClick(View v){
         switch (v.getId()){
